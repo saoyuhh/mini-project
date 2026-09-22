@@ -39,7 +39,7 @@ export function OurStats() {
           variant="lead"
           className="mt-3 w-full !text-gray-500 lg:w-9/12"
         >
-          This three-day extravaganza brings together the brightest minds,
+          This three-day brings together the brightest minds,
           leading innovators, and top companies in the field of Artificial
           Intelligence.
         </Typography>
