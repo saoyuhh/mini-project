@@ -24,7 +24,7 @@ export function AboutEvent() {
       <Typography variant="h6" className="text-center mb-2" color="orange">
         About the event
       </Typography>
-      <Typography variant="h3" className="text-center" color="blue-gray">
+      <Typography variant="h3" className="text-center" color="gray-gray">
         Why Attend?
       </Typography>
       <Typography
