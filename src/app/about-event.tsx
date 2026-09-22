@@ -22,7 +22,7 @@ export function AboutEvent() {
   return (
     <section className="container mx-auto flex flex-col items-center px-4 py-10">
       <Typography variant="h6" className="text-center mb-2" color="orange">
-        About the event
+        About the evennnnnnt
       </Typography>
       <Typography variant="h3" className="text-center" color="gray-gray">
         Why Attend?
