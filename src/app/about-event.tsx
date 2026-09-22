@@ -31,7 +31,7 @@ export function AboutEvent() {
         variant="lead"
         className="mt-2 lg:max-w-4xl mb-8 w-full text-center font-normal !text-danger-500"
       >
-        Welcome to the AI Conference 2023, where the future unfolds! Whether
+        wee to the AI Conference 2023, where the future unfolds! Whether
         you&apos;re a seasoned AI professional, a curious newcomer, or a
         business leader looking to harness the power of AI, this conference is
         designed to inspire, educate, and connect.
