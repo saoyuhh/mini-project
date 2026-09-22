@@ -13,7 +13,7 @@ const EVENT_INFO = [
   {
     title: "Practical Knowledge!",
     description:
-      "Attend workshops and hands-on sessions to acquire practical skills that you can apply immediately.",
+      "Workshops and hands-on sessions to acquire practical skills that you can apply immediately.",
     subTitle: "Workshops",
   },
 ];
