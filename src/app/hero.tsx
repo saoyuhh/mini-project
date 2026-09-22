@@ -13,7 +13,7 @@ function Hero() {
           29-31 August @ New York
         </Typography>
         <Typography variant="h1" color="white" className="lg:max-w-3xl">
-          AI Conference 2023: Unlocking the Future
+          AI Conference 2023: Unlocking thes
         </Typography>
         <Typography
           variant="lead"
